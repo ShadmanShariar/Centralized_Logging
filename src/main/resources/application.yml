@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: logging
+logging:
+  file:
+    name: /Users/shadmanshariar/Downloads/logging/logs/logging.log
